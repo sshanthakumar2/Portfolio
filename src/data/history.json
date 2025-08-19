@@ -1,0 +1,52 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "HCLTech",
+    "startDate": "Sep, 2021",
+    "endDate": "Dec, 2023",
+    "experiences": [
+      "Created web applications using JavaScript and Python, implementing RESTful APIs for data exchange",
+      "Built responsive user interfaces with React.js, HTML5, and CSS3 for international clients",
+      "Designed relational databases (PostgreSQL, MySQL), improving query performance and reliability",
+      "Worked in Agile teams, contributing to sprint planning and retrospectives"
+    ],
+    "imageSrc": "history/hcltech.png"
+  },
+  {
+    "role": "Trainee Software Engineer",
+    "organisation": "Kanitech Solutions",
+    "startDate": "Dec, 2020",
+    "endDate": "Aug, 2021",
+    "experiences": [
+      "Assisted in frontend development using JavaScript, HTML, CSS, and React.js",
+      "Contributed to backend API development using Node.js and Express.js",
+      "Worked with MongoDB for data modeling and CRUD operations",
+      "Participated in QA testing and documentation updates"
+    ],
+    "imageSrc": "history/kanitech.png"
+  },
+  {
+    "role": "Postgraduate Student – Business Information Technology",
+    "organisation": "Seneca Polytechnic",
+    "startDate": "Jan, 2024",
+    "endDate": "Aug, 2025",
+    "experiences": [
+      "Completed advanced coursework in Web Development, Cloud Computing, Cybersecurity, and Database Management",
+      "Achieved President’s Honour List status for academic performance",
+      "Worked on multiple cloud and full-stack projects using AWS, React.js, and secure Linux servers"
+    ],
+    "imageSrc": "history/seneca.png"
+  },
+  {
+    "role": "Bachelor of Science in Computer Science and Technology",
+    "organisation": "Uva Wellassa University of Sri Lanka",
+    "startDate": "Jan, 2017",
+    "endDate": "Aug, 2021",
+    "experiences": [
+      "Graduated with Second Class Upper Division, GPA: 3.45",
+      "Completed coursework in Programming, Cloud Computing, Database Design, and Web Development",
+      "Worked on academic projects involving full-stack development and software engineering principles"
+    ],
+    "imageSrc": "history/uva.png"
+  }
+]
