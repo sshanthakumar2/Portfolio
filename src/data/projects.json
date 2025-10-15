@@ -2,7 +2,7 @@
   {
     "title": "Expense Tracker App",
     "imageSrc": "projects/project.png",
-    "description": "A responsive web application built to track and manage personal expenses. Users can add, edit, and delete transactions, view total spending, and filter by category or date. The app focuses on clean UI, smooth state management, and data persistence using LocalStorage.",
+    "description": "A responsive web application built to track and manage personal expenses. Users can add, edit, and delete transactions. The app focuses on clean UI, smooth state management, and data persistence using LocalStorage.",
     "skills": ["React", "JavaScript", "HTML5", "CSS3"],
     "demo": "https://expense-calculator-roan.vercel.app/",
     "source": "https://github.com/sshanthakumar2/Expense-Calculator"
