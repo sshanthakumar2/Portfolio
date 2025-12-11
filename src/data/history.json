@@ -1,14 +1,29 @@
 [
   {
     "role": "Software Engineer",
+    "organisation": "ISR IT Services",
+    "startDate": "Oct, 2025",
+    "endDate": "Present",
+    "experiences": [
+      "Developing full-stack web applications using JavaScript, React.js, Node.js, and Express.js",
+      "Building responsive user interfaces and reusable components aligned with UX guidelines",
+      "Designing and maintaining RESTful APIs and integrating third-party services",
+      "Working with PostgreSQL and MongoDB for schema design, queries, and performance optimization",
+      "Supporting cloud deployments and CI/CD workflows using AWS and Azure",
+      "Participating in code reviews, debugging, and technical documentation"
+    ],
+   
+  },
+  {
+    "role": "Software Engineer",
     "organisation": "HCLTech",
     "startDate": "Sep, 2021",
     "endDate": "Dec, 2023",
     "experiences": [
-      "Created web applications using JavaScript and Python, implementing RESTful APIs for data exchange",
-      "Built responsive user interfaces with React.js, HTML5, and CSS3 for international clients",
-      "Designed relational databases (PostgreSQL, MySQL), improving query performance and reliability",
-      "Worked in Agile teams, contributing to sprint planning and retrospectives"
+      "Developed and maintained enterprise software solutions for Keurig Dr Pepper (KDP)",
+      "Implemented data processing, automation logic, and backend integrations",
+      "Optimized system performance and enhanced workflow efficiency",
+      "Collaborated with global teams to gather requirements and deliver scalable solutions"
     ],
     "imageSrc": "history/hcltech.png"
   },
@@ -19,21 +34,22 @@
     "endDate": "Aug, 2021",
     "experiences": [
       "Assisted in frontend development using JavaScript, HTML, CSS, and React.js",
-      "Contributed to backend API development using Node.js and Express.js",
+      "Built backend API components with Node.js and Express.js",
       "Worked with MongoDB for data modeling and CRUD operations",
-      "Participated in QA testing and documentation updates"
+      "Participated in QA testing, debugging, and documentation updates"
     ],
     "imageSrc": "history/kanitech.png"
   },
   {
-    "role": "Postgraduate Student – Business Information Technology",
+    "role": "Post-Graduate Diploma in Business Information Technology",
     "organisation": "Seneca Polytechnic",
-    "startDate": "Jan, 2024",
+    "startDate": "Jan, 2023",
     "endDate": "Aug, 2025",
     "experiences": [
-      "Completed advanced coursework in Web Development, Cloud Computing, Cybersecurity, and Database Management",
-      "Achieved President’s Honour List status for academic performance",
-      "Worked on multiple cloud and full-stack projects using AWS, React.js, and secure Linux servers"
+      "Graduated with High Honours, President’s Honour List, GPA 4.0",
+      "Completed advanced coursework in cloud computing, web development, and database systems",
+      "Worked on full-stack and cloud projects using AWS, React.js, and secure Linux environments",
+      "Academic Project: Planexa Labs – Real Estate Regulatory Document Management Platform"
     ],
     "imageSrc": "history/seneca.png"
   },
@@ -43,9 +59,9 @@
     "startDate": "Jan, 2017",
     "endDate": "Aug, 2021",
     "experiences": [
-      "Graduated with Second Class Upper Division, GPA: 3.45",
-      "Completed coursework in Programming, Cloud Computing, Database Design, and Web Development",
-      "Worked on academic projects involving full-stack development and software engineering principles"
+      "Graduated with Second Class Upper Division (GPA 3.45)",
+      "Completed coursework in programming, database design, cloud computing, and software engineering",
+      "Final Research Project: Environmental Sound Classification Using Deep Learning"
     ],
     "imageSrc": "history/uva.png"
   }
